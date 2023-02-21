@@ -46,4 +46,5 @@ Make sure change the jumper wire as per upper image
 <img src = "https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/Images/img7.png"/>
 <img src = "https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/Images/img8.png"/>
 
-## UHF Lite HAT Command Manual
+## UHF Lite  Command Manual
+https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/UHF%20Lite%20Manual.docx
