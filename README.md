@@ -45,7 +45,7 @@ There is a folder name Library in this repository inside this folder there is a 
 
 ## Configure UHF Lite from Application
 You can download this application from below link:
-https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/uhf%20lite.rar
+[UHF Software](https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/uhf%20lite.rar)
 
 <img src = "https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/Images/img.JPG"/>
 
