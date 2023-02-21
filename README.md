@@ -17,7 +17,7 @@ The frequency range of the UHF (Ultra High Frequency) Lite Expansion, a radio fr
   * Output power- 18 to 26 dBm
   * Tags RSSI support
   * Air cooling(no need for out install cooling fan）
-Onboard antenna character：
+## Onboard antenna character：
   * Be sensitive and stable to the tags identify.
   * Stable reading distance 1 meter and Reading distance speed, >50pcs/sec.
   * Muti-tags identify, >50pcs tags.
