@@ -35,12 +35,12 @@ Connect USB to UHF HAT
 Make sure change the jumper wire as per upper image
 
 <img src = "https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/Images/img1.png"/>
-<img src = "https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/images/img2.png"/>
-<img src = "https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/images/img3.png"/>
-<img src = "https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/images/img4.png"/>
-<img src = "https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/images/img5.png"/>
-<img src = "https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/images/img6.png"/>
-<img src = "https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/images/img7.png"/>
-<img src = "https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/images/img8.png"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/Images/img2.png"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/Images/img3.png"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/Images/img4.png"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/Images/img5.png"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/Images/img6.png"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/Images/img7.png"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/Images/img8.png"/>
 
 ## UHF Lite HAT Command Manual
