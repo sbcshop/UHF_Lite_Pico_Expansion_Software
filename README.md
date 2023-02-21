@@ -25,13 +25,24 @@ The frequency range of the UHF (Ultra High Frequency) Lite Expansion, a radio fr
 ## Hardware Overview
 <img src = "https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/Images/img11.png"/>
 
+## Steps To Setup The RoundyPi
+1. Download Thonny IDE 
+
+   https://thonny.org/
+   
+   <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img.JPG" />
+   
+2. Install MicroPython in Raspberry pi PICO
+   * Install **Micropython** in Roundypi
+     first you need to press the boot button then connect the USB, don,t release the button until you connect the USB to the laptop. then you see a new device named         "RPI-RP2" drag this file "firmware.uf2" to this device as shown in figure(micropython firmware is inside "Connect_Air_Monitoring_Sensor" folder)
+        <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img13.png" />
+        <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img1.JPG" />
+
 ## Configure UHF Lite from Application
 You can download this application from below link:
 https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/uhf%20lite.rar
 
 <img src = "https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/Images/img.JPG"/>
-
-## Code
 
 Connect USB to UHF HAT
 <img src = "https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/Images/UHF%20Lite.jpg"/>
