@@ -28,6 +28,7 @@ The frequency range of the UHF (Ultra High Frequency) Lite Expansion, a radio fr
 ## Configure UHF Lite from Application
 You can download this application from below link:
 https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/uhf%20lite.rar
+
 <img src = "https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/Images/img.JPG"/>
 
 Connect USB to UHF HAT
