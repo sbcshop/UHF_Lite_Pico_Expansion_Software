@@ -44,9 +44,9 @@ Make sure connect jumper wire as per below image, while UHF Expansion use ***wit
 ## Code
 Download the repository, This repository have two folder :
 
- * Library - Inside this folder there is a file name  ***uhf.py*** (UHF Module Library)
+ * Library - Inside this folder there is a file name  ***uhf.py*** and ***ssd1306.py*** (UHF Module Library)
 
-   [Library](https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/Library/uhf.py), Save this file in side Raspberry Pi PICO
+   [Library](https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/Library/uhf.py), Save these file inside Raspberry Pi PICO
  
  * Examples - Inside this folder there are many examples :
  
