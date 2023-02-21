@@ -80,6 +80,6 @@ Make sure change the jumper wire as per upper image
 
 ## Related Products
 
-* [UHF Lite HAT](https://shop.sb-components.co.uk/products/uhf-rfid-lite-hat) - ESP8266-12E version of SquaryPi
+* [UHF Lite HAT](https://shop.sb-components.co.uk/products/uhf-rfid-lite-hat) - Raspberry Pi Version
 
  ![UHF Lite HAT](https://cdn.shopify.com/s/files/1/1217/2104/products/UHF_LITE_HAT_EUROPE_VERSION_01.png?v=1676359993&width=700)
