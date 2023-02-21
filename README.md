@@ -23,3 +23,4 @@ The frequency range of the UHF (Ultra High Frequency) Lite Expansion, a radio fr
   * Muti-tags identify, >50pcs tags.
 
 ## Hardware Overview
+<img src = "https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/Images/img1.png"/>
