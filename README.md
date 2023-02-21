@@ -26,6 +26,9 @@ The frequency range of the UHF (Ultra High Frequency) Lite Expansion, a radio fr
 <img src = "https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/Images/img11.png"/>
 
 ## Steps To Setup The UHF Lite UHF Expansion
+Make sure connect jumper wire as per below image, while UHF Expansion use with PICO
+
+<img src = "https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/Images/img12.png"/>
 1. Download Thonny IDE 
 
    https://thonny.org/
