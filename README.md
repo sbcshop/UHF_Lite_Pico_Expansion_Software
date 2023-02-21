@@ -24,3 +24,23 @@ The frequency range of the UHF (Ultra High Frequency) Lite Expansion, a radio fr
 
 ## Hardware Overview
 <img src = "https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/Images/img1.png"/>
+
+## Configure UHF Lite from Application
+You can download this application from below link:
+https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/uhf%20lite.rar
+<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img.JPG"/>
+
+Connect USB to UHF HAT
+<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/UHF%20Lite%20HAT.jpg"/>
+Make sure change the jumper wire as per upper image
+
+<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img1.png"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img2.png"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img3.png"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img4.png"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img5.png"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img6.png"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img7.png"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img8.png"/>
+
+## UHF Lite HAT Command Manual
