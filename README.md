@@ -36,7 +36,7 @@ The frequency range of the UHF (Ultra High Frequency) Lite Expansion, a radio fr
      first you need to press the boot button then connect the USB, don,t release the button until you connect the USB to the laptop. then you see a new device named         "RPI-RP2" drag this file "firmware.uf2" to this device as shown in figure
         <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img13.png" />
    ### Learning Guide
-      * [Getting Started with Micropython](https://github.com/sbcshop/SquaryPi-Software/tree/main/Python_Package) - Step by step guide to start with SquaryPi in Micropython
+      * [Getting Started with Micropython](https://github.com/sbcshop/SquaryPi-Software/tree/main/Python_Package) - Step by step guide to start with Micropython
 
 
 ## Configure UHF Lite from Application
