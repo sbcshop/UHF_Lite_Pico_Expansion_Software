@@ -76,3 +76,10 @@ Make sure change the jumper wire as per upper image
 
 ## UHF Lite Expansion Command Manual
 [Command Manual](https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/UHF%20Lite%20Manual.docx)
+
+
+## Related Products
+
+* [UHF Lite HAT](https://shop.sb-components.co.uk/products/uhf-rfid-lite-hat) - ESP8266-12E version of SquaryPi
+
+ ![UHF Lite HAT](https://cdn.shopify.com/s/files/1/1217/2104/products/UHF_LITE_HAT_EUROPE_VERSION_01.png?v=1676359993&width=700)
