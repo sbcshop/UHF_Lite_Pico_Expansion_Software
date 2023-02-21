@@ -21,3 +21,5 @@ The frequency range of the UHF (Ultra High Frequency) Lite Expansion, a radio fr
   * Be sensitive and stable to the tags identify.
   * Stable reading distance 1 meter and Reading distance speed, >50pcs/sec.
   * Muti-tags identify, >50pcs tags.
+
+## Hardware Overview
