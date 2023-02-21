@@ -38,6 +38,7 @@ The frequency range of the UHF (Ultra High Frequency) Lite Expansion, a radio fr
    ### Learning Guide
       * [Getting Started with Micropython](https://github.com/sbcshop/SquaryPi-Software/tree/main/Python_Package) - Step by step guide to start with Micropython
 
+## Code
 
 ## Configure UHF Lite from Application
 You can download this application from below link:
