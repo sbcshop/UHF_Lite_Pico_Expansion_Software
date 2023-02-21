@@ -41,7 +41,7 @@ The frequency range of the UHF (Ultra High Frequency) Lite Expansion, a radio fr
 ## Code
 Download the repository, This repository have two folder :
 
- * Library - Inside this folder there is a file name  ***uhf.py*** (UHF Module Library) [Library]  (https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/Library/uhf.py), Save this file in side Raspberry Pi PICO
+ * Library - Inside this folder there is a file name  ***uhf.py*** (UHF Module Library)[Library]  (https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/Library/uhf.py), Save this file in side Raspberry Pi PICO
  
  * Examples - Inside this folder there are many examples :
  
