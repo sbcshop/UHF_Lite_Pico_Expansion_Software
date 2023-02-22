@@ -78,6 +78,12 @@ Make sure change the jumper wire as per upper image
 ## UHF Lite Expansion Command Manual
 [Command Manual](https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/UHF%20Lite%20Manual.docx)
 
+## Documentation
+
+* [UHF Lite Expansion Hardware](https://github.com/sbcshop/UHF_Lite_HAT_Hardware)
+* [Getting Started with Raspberry Pi Pico](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico)
+* [Raspberry Pi Pico Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
+* [Hardware Design](https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Hardware/tree/main/Design%20Data) 
 
 ## Related Products
 
