@@ -11,7 +11,8 @@ try:
     while 1:
         rev = uhf.read_mul()
         if rev is not None:
-            print(rev)
+            #print(rev)
+            print('EPC = ',"".join(rev[8:20]))
             print('RSSI(dBm) = ',rev[5])
             print('CRC = ',rev[20],rev[21])
         time.sleep(0.0009)
