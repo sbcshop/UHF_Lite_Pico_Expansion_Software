@@ -89,7 +89,7 @@ Make sure change the jumper wire as per upper image
 
 * [UHF Lite HAT](https://shop.sb-components.co.uk/products/uhf-rfid-lite-hat) - Raspberry Pi Version
 
- ![UHF Lite HAT](https://cdn.shopify.com/s/files/1/1217/2104/products/UHF_LITE_HAT_EUROPE_VERSION_01.png?v=1676359993&width=700)
+ ![UHF Lite HAT](https://cdn.shopify.com/s/files/1/1217/2104/products/UHF_LITE_HAT_EUROPE_VERSION_01.png?v=1676359993&width=400)
 * [RFID HAT for RaspberryPi](https://shop.sb-components.co.uk/products/rfid-hat-for-raspberry-pi?_pos=3&_sid=59f725ea2&_ss=r)
 
  ![RFID HAT for RaspberryPi](https://cdn.shopify.com/s/files/1/1217/2104/products/RFIDforPi.jpg?v=1614587676&width=400)
