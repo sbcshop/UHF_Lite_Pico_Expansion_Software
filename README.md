@@ -54,14 +54,14 @@ Download the repository, This repository have two folder :
    [Examples](https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/tree/main/Examples)
 
 ## Configure UHF Lite from Application
-You can download this application from below link:
+You can download application from below link:
 
 [UHF Software](https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/uhf%20lite.rar)
 
 <img src = "https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/Images/img.JPG"/>
 
 Connect USB to UHF HAT
-Make sure connect jumper wire as per below image, while UHF Expansion use ***without*** PICO
+Make sure to connect jumper wire as per below image, while UHF Expansion use ***without*** PICO
 
 <img src = "https://github.com/sbcshop/UHF_Lite_Pico_Expansion_Software/blob/main/Images/UHF%20Lite.jpg"/>
 Make sure change the jumper wire as per upper image
