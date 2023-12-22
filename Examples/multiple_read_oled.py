@@ -23,6 +23,14 @@ oled.show()
 
 baudrate = 115200
 uhf = UHF(baudrate)
+
+'''
+Uncomment corresponding section to increase reading range,
+you will have to set the region as per requirment
+'''
+#uhf.setRegion_EU() 
+#uhf.setRegion_US()
+
 uhf.multiple_read()
 try:
     while 1:
