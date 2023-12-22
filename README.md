@@ -11,7 +11,7 @@ The frequency range of the UHF (Ultra High Frequency) Lite Expansion, a radio fr
   * Support RSSI Tags
   * Support Read/Write operation
   * TTL UART interface
-  * Default and recommended communication baud rate is 115200 bps
+  * Default and the recommended communication baud rate is 115200 bps
   * Output power is 18-26 dBm
   * Protocol - EPCglobal UHF Class 1 Gen 2 / ISO 18000-6C
   * Frequency - 840-960MHZ
